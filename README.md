@@ -1,5 +1,6 @@
-### Hi I'm there 👋
+# DayDayUp👋 
 
+- [【⭐️⭐️的学习笔记】](https://hjwang1024.github.io/)
 <!--
 **hjwang1024/hjwang1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,8 +24,6 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-
-![](https://github.com/hjwang1024/hjwang1024/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 ### 我的统计信息
 
